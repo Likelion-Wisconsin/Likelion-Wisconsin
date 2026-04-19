@@ -1,5 +1,5 @@
-# LikeLion Wisconsin 🦁💻
-Welcome to the LikeLion Wisconsin GitHub page!  
+# Likelion Wisconsin 🦁💻
+Welcome to the Likelion Wisconsin GitHub page!  
 We are a passionate group of students from UW-Madison dedicated to building innovative projects that harness the power of technology. Through collaboration, creativity, and a commitment to excellence, we strive to make a positive impact on the world through code.
 
 ## 🌟 Our Mission
